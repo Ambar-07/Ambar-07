@@ -21,7 +21,7 @@
 ## 🤳Get in touch:
 
 - Instagram: www.instagram.com/_ambar070
-- LinkedIn: https://shorturl.at/hltuK 
+- LinkedIn: www.linkedin.com/in/ambar-gairola-a287b3291
 - Write me at ambar.gairola@icloud.com 
 
 
