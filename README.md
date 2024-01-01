@@ -20,7 +20,7 @@
 
 ## 🤳Get in touch:
 
-- Instagram: https://shorturl.at/eVWZ2 
+- Instagram: www.instagram.com/_ambar070
 - LinkedIn: https://shorturl.at/hltuK 
 - Write me at ambar.gairola@icloud.com 
 
