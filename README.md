@@ -16,7 +16,6 @@
 
 - **Programming Languages:** C, Linux, Python (in progress) 
 - **Editing Softwares:** DAVINCI resolve , Adobe premiere pro (in progress) , Capcut 
-- **Cloud computing:** "Minoring in cloud computing to understand the network and hardware infrastructure side."
 
 ## 🤳Get in touch:
 
