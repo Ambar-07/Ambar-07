@@ -8,8 +8,7 @@
 
 - 🌐 Pursuing B.Tech in Computer Science and Engineering at UPES-Dehradun
 - 💡 Actively learning Python, Machine Learning, and editing 
-- 🧑‍💻 Skilled in C programming , Linux , HTML
-- 🏆 Preparing for G-SOC
+- 🧑‍💻 Skilled in C programming , Linux , 
 - 📘 Currently exploring network security 
 
 ## 🗡️ Skills
