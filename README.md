@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Machine Learning, and editing**
 
-- 📘 Currently exploring [Cyber Security](Cyber Security)
+- 📘 Currently exploring (Cyber Security)
 
 - 🌐 I am Currently Pursuing **B.Tech in Computer Science and Engineering at UPES-Dehradun**
 
