@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ambar gairola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ambar gairola" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ambar-gairola-a287b3291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ambar-gairola-a287b3291/" height="30" width="40" /></a>
 <a href="https://instagram.com/_ambar070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ambar070" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@ambar_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ambar_07" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@ambar_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ambar_07" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/suave_voice_70" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suave_voice_70" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@ambargairola1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ambargairola1" height="30" width="40" /></a>
 </p>
