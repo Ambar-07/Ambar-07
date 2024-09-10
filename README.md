@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif](https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">, I'm Ambar Gairola</h1>
+<h1 align="center">Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">, I'm Ambar Gairola</h1>
 
 <h3 align="center">A Cyber-Security enthusiast currently pursuing B.Tech CSE in Cyber Security & Digital Forensics at UPES Dehradun. I'm also interested in cinematography and editing</h3>
 
