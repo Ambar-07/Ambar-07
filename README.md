@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Python, Machine Learning, and editing**
 
-- 📘 Currently exploring (Cyber Security)
+- 📘 Currently exploring **Cyber Security**
 
-- 🌐 I am Currently Pursuing **B.Tech in Computer Science and Engineering at UPES-Dehradun**
+- 🌐 I am currently pursuing **B.Tech in Computer Science and Engineering at UPES-Dehradun**
 
 - 📫 How to reach me **ambar.gairola@icloud.com**
 
@@ -65,8 +65,9 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambar-07&show_icons=true&locale=en&layout=compact&theme=dark" alt="ambar-07" /></p>
+<!-- Updated GitHub Widgets in Dark Theme -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambar-07&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="ambar-07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ambar-07&show_icons=true&locale=en&theme=dark" alt="ambar-07" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ambar-07&show_icons=true&locale=en&theme=github_dark" alt="ambar-07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ambar-07&theme=dark" alt="ambar-07" /></p>
