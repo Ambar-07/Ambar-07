@@ -12,6 +12,10 @@
   <img src="https://komarev.com/ghpvc/?username=ambar-07&label=Profile%20views&color=0e75b6&style=flat" alt="ambar-07" /> 
 </p>
 
+<p align="left"> 
+  <img src="https://github.com/Ambar-07/Ambar-07/blob/main/3cc41a2c7a26ad91-sticker.png?raw=true"> 
+</p>
+
 - 🌱 I’m currently learning **Python, C++ , and Video editing**
 - 📘 Currently exploring **Cyber Security**
 - 🌐 I am currently pursuing **B.Tech in Computer Science and Engineering at UPES-Dehradun**
