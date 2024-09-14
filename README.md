@@ -1,4 +1,4 @@
-![logo](https://media.tenor.com/GfSX-u7VGM4AAAPs/coding.webm)
+![logo](https://media.tenor.com/GfSX-u7VGM4AAAPs/coding.gif)
 
 <h1 align="center">Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">, I'm Ambar Gairola</h1>
 
