@@ -1,5 +1,5 @@
 ![logo](https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif) 
-<img src="https://media1.tenor.com/m/pPKOYQpTO8AAAAAd/monkey-developer.gif">
+<img src="https://media1.tenor.com/m/pPKOYQpTO8AAAAAd/monkey-developer.gif" width="30px">
 <h1 align="center">Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">, I'm Ambar Gairola</h1>
 
 <h3 align="center">A Cyber-Security enthusiast currently pursuing B.Tech CSE in Cyber Security & Digital Forensics at UPES Dehradun. I'm also interested in cinematography and editing</h3>
