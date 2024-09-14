@@ -1,6 +1,6 @@
 <!-- Top GIFs -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/Ff7ZGErcw7QAAAAC/monkey-pissed.gif" width="500px" />
+  <img src="https://media1.tenor.com/m/Se5Q8ddpe84AAAAC/monkey-pissed-monkey.gif" width="500px" />
   <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="500px" />
 </p>
 
