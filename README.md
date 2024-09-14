@@ -71,4 +71,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ambar-07&show_icons=true&locale=en&theme=github_dark" alt="ambar-07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ambar-07&theme=dark%22%20alt=%22ambar-07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ambar-07&theme=dark" alt="ambar-07" /></p>
+
