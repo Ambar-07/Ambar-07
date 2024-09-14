@@ -1,7 +1,7 @@
 <!-- Top GIFs -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/Se5Q8ddpe84AAAAC/monkey-pissed-monkey.gif" width="250px" />
-  <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="250px" />
+  <img src="https://media1.tenor.com/m/Se5Q8ddpe84AAAAC/monkey-pissed-monkey.gif" width="300px" />
+  <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="300px" />
 </p>
 
 <h1 align="center">Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">, I'm Ambar Gairola</h1>
