@@ -12,10 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=ambar-07&label=Profile%20views&color=0e75b6&style=flat" alt="ambar-07" /> 
 </p>
 
-<p align="right"> 
-  <img src="https://github.com/Ambar-07/Ambar-07/blob/main/3cc41a2c7a26ad91-sticker.png?raw=true" width="150px" /> 
-</p>
-
 - 🌱 I’m currently learning **Python, C++ , and Video editing**
 - 📘 Currently exploring **Cyber Security**
 - 🌐 I am currently pursuing **B.Tech in Computer Science and Engineering at UPES-Dehradun**
@@ -28,6 +24,10 @@
   <a href="https://www.youtube.com/@Ambar_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@ambar_07" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/suave_voice_70" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suave_voice_70" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/@ambargairola1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ambargairola1" height="30" width="40" /></a>
+</p>
+
+<p align="right"> 
+  <img src="https://github.com/Ambar-07/Ambar-07/blob/main/3cc41a2c7a26ad91-sticker.png?raw=true" width="150px" /> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
