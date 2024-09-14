@@ -1,6 +1,6 @@
 <!-- Top GIFs -->
 <p align="center">
-  <img src="https://tenor.com/en-GB/view/monkey-developer-software-coding-debug-gif-15160023" width="60px" />
+  <img src="https://media1.tenor.com/m/pPKOYQpTO8AAAAAC/monkey-developer.gif" width="60px" />
   <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="60px" />
 </p>
 
