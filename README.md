@@ -1,4 +1,9 @@
-![logo](https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif) 
+<!-- Top GIFs -->
+<p align="center">
+  <img src="https://media1.tenor.com/m/pPKOYQpTO8AAAAAd/monkey-developer.gif" width="60px" />
+  <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="60px" />
+</p>
+
 <h1 align="center">Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">, I'm Ambar Gairola</h1>
 
 <h3 align="center">A Cyber-Security enthusiast currently pursuing B.Tech CSE in Cyber Security & Digital Forensics at UPES Dehradun. I'm also interested in cinematography and editing</h3>
@@ -7,25 +12,18 @@
   <img src="https://komarev.com/ghpvc/?username=ambar-07&label=Profile%20views&color=0e75b6&style=flat" alt="ambar-07" /> 
 </p>
 
-<p align="left"> 
-  <img src="https://media1.tenor.com/m/pPKOYQpTO8AAAAAd/monkey-developer.gif" /> 
-</p>
-
-- 🌱 I’m currently learning **Python, C++ , and  Video editing**
-
+- 🌱 I’m currently learning **Python, C++ , and Video editing**
 - 📘 Currently exploring **Cyber Security**
-
 - 🌐 I am currently pursuing **B.Tech in Computer Science and Engineering at UPES-Dehradun**
-
 - 📫 How to reach me **ambar.gairola@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ambar-gairola-a287b3291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ambar-gairola-a287b3291" height="30" width="40" /></a>
-<a href="https://instagram.com/_ambar070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ambar070" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Ambar_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@ambar_07" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/suave_voice_70" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suave_voice_70" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ambargairola1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ambargairola1" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ambar-gairola-a287b3291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ambar-gairola-a287b3291" height="30" width="40" /></a>
+  <a href="https://instagram.com/_ambar070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ambar070" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@Ambar_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@ambar_07" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/suave_voice_70" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suave_voice_70" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/@ambargairola1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ambargairola1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -77,4 +75,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ambar-07&show_icons=true&locale=en&theme=github_dark" alt="ambar-07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ambar-07&theme=dark" alt="ambar-07" /></p>
-
