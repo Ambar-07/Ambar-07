@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=ambar-07&label=Profile%20views&color=0e75b6&style=flat" alt="ambar-07" /> 
 </p>
 
-- 🌱 I’m currently learning **Python, C++ , and editing**
+- 🌱 I’m currently learning **Python, C++ , and  Video editing**
 
 - 📘 Currently exploring **Cyber Security**
 
