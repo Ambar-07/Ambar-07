@@ -1,6 +1,6 @@
 <!-- Top GIFs -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/YjN3ocDZc2YAAAAC/monkey-dumb.gif" width="500px" />
+  <img src="https://tenor.com/en-GB/view/monkey-pissed-mad-angry-annoyed-gif-4691438" width="500px" />
   <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="500px" />
 </p>
 
