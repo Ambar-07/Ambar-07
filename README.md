@@ -27,7 +27,7 @@
 </p>
 
 <p align="right"> 
-  <img src="https://github.com/Ambar-07/Ambar-07/blob/main/3cc41a2c7a26ad91-sticker.png?raw=true" width="150px" /> 
+  <img src="https://github.com/Ambar-07/Ambar-07/blob/main/3cc41a2c7a26ad91-sticker.png?raw=true" width="250px" /> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
