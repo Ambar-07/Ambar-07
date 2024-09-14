@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-  <img src="https://github.com/Ambar-07/Ambar-07/blob/main/3cc41a2c7a26ad91-sticker.png?raw=true" width="250px" /> 
+  <img src="https://github.com/Ambar-07/Ambar-07/blob/main/3cc41a2c7a26ad91-sticker.png?raw=true" width="200px" /> 
 </p>
 <p align="left">
   <a href="https://linkedin.com/in/ambar-gairola-a287b3291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ambar-gairola-a287b3291" height="30" width="40" /></a>
