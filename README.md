@@ -1,6 +1,6 @@
 <!-- Top GIFs -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/_bgkr7F-BOMAAAAC/caps-speed-typing.gif" width="500px" />
+  <img src="https://media1.tenor.com/m/qc8QHhSMfngAAAAd/bepalzo-monkey.gif" width="500px" />
   <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="500px" />
 </p>
 
