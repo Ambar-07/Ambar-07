@@ -26,7 +26,7 @@
   <a href="https://www.hackerrank.com/@ambargairola1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ambargairola1" height="30" width="40" /></a>
 </p>
 
-<p align="right"> 
+<p align="center"> 
   <img src="https://github.com/Ambar-07/Ambar-07/blob/main/3cc41a2c7a26ad91-sticker.png?raw=true" width="250px" /> 
 </p>
 
