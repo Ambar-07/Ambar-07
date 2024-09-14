@@ -1,5 +1,3 @@
-<div class="tenor-gif-embed" data-postid="18657810" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/coding-gif-18657810">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 <h1 align="center">Hi <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">, I'm Ambar Gairola</h1>
 
 <h3 align="center">A Cyber-Security enthusiast currently pursuing B.Tech CSE in Cyber Security & Digital Forensics at UPES Dehradun. I'm also interested in cinematography and editing</h3>
