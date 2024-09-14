@@ -13,13 +13,14 @@
 </p>
 
 - 🌱 I’m currently learning **Python, C++ , and Video editing**
-- 📘 Currently exploring **Cyber Security**               <p align="left"> 
-  <img src="https://github.com/Ambar-07/Ambar-07/blob/main/3cc41a2c7a26ad91-sticker.png?raw=true" width="250px" /> 
-</p>
+- 📘 Currently exploring **Cyber Security**               
 - 🌐 I am currently pursuing **B.Tech in Computer Science and Engineering at UPES-Dehradun**
 - 📫 How to reach me **ambar.gairola@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left"> 
+  <img src="https://github.com/Ambar-07/Ambar-07/blob/main/3cc41a2c7a26ad91-sticker.png?raw=true" width="250px" /> 
+</p>
 <p align="left">
   <a href="https://linkedin.com/in/ambar-gairola-a287b3291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ambar-gairola-a287b3291" height="30" width="40" /></a>
   <a href="https://instagram.com/_ambar070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ambar070" height="30" width="40" /></a>
