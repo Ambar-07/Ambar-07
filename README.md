@@ -1,5 +1,4 @@
 <!-- Top GIFs -->
-
 <p align="center">
   <img src="https://media1.tenor.com/m/Se5Q8ddpe84AAAAC/monkey-pissed-monkey.gif" width="350px" />
   <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="350px" />
