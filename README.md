@@ -72,7 +72,6 @@
   </a> 
 </p>
 
-<!-- Updated GitHub Widgets in Dark Theme -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambar-07&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="ambar-07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ambar-07&show_icons=true&locale=en&theme=github_dark" alt="ambar-07" /></p>
