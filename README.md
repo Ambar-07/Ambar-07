@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Python, C++ , and Video editing**
 - 📘 Currently exploring **Cyber Security**               
 - 🌐 I am currently pursuing **B.Tech in Computer Science and Engineering at UPES-Dehradun**
-- 📫 How to reach me **ambar.gairola@icloud.com**
+- 📫 Reach me: **ambar.gairola@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
